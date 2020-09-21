@@ -21,6 +21,15 @@ fields:
       format: markdown
   label: TestTextField
   description: This is Test Text Field。
+- name: testdatefield
+  type: datetime
+  label: TestDateField
+  description: This is Test Date Field
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - content/_index.md
 - content/about/_index.md
