@@ -31,6 +31,8 @@ title = "This is my first post on forestry.io"
 
 语文老师
 
+![](/images/esmeralda.jpg)
+
 1、高手教练在语文，
 
 2、学好语文，人文素养好，
